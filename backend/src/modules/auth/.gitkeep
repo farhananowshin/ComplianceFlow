@@ -1,0 +1,5 @@
+# Auth Module Structure
+# - auth.controller.ts
+# - auth.service.ts
+# - auth.routes.ts
+# - auth.validation.ts

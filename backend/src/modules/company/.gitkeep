@@ -1,0 +1,6 @@
+# Company Module Structure (Multi-tenant Company / Subsidiary Entities)
+# - company.controller.ts
+# - company.service.ts
+# - company.model.ts
+# - company.routes.ts
+# - company.validation.ts

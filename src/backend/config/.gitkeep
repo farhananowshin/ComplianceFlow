@@ -1,0 +1,2 @@
+# Backend Configuration
+# Will store database connection (MongoDB/Mongoose), environment configs, and Better Auth configuration.

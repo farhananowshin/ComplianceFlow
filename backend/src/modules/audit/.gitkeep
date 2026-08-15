@@ -1,0 +1,6 @@
+# Audit Module Structure
+# - audit.controller.ts
+# - audit.service.ts
+# - audit.model.ts
+# - audit.routes.ts
+# - audit.validation.ts

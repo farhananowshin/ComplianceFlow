@@ -1,0 +1,6 @@
+# Compliance Documents Module Structure
+# - compliance.controller.ts
+# - compliance.service.ts
+# - compliance.model.ts
+# - compliance.routes.ts
+# - compliance.validation.ts

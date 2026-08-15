@@ -1,0 +1,6 @@
+# Notification Module Structure
+# - notification.controller.ts
+# - notification.service.ts
+# - notification.model.ts
+# - notification.routes.ts
+# - notification.validation.ts

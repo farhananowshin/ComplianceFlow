@@ -1,0 +1,6 @@
+# Renewal Module Structure
+# - renewal.controller.ts
+# - renewal.service.ts
+# - renewal.model.ts
+# - renewal.routes.ts
+# - renewal.validation.ts

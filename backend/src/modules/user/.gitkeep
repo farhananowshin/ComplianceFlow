@@ -1,0 +1,6 @@
+# User Management Module Structure
+# - user.controller.ts
+# - user.service.ts
+# - user.model.ts
+# - user.routes.ts
+# - user.validation.ts

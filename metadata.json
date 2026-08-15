@@ -1,0 +1,6 @@
+{
+  "name": "ComplianceFlow",
+  "description": "Enterprise Compliance & Renewal Management Platform - Track, Monitor, Renew, and Stay Compliant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
